@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="306" height="69" viewBox="0 0 306 69">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.174" y1="1.067" x2="0.826" y2="-0.063" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#18884f"/>
+      <stop offset="0.5" stop-color="#117e43"/>
+      <stop offset="1" stop-color="#0b6631"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_21" data-name="Group 21" transform="translate(-802 -1514)">
+    <g id="Microsoft_Excel-Logo.wine" transform="translate(802 1514)">
+      <path id="Path_25" data-name="Path 25" d="M561.825,857.175,532.5,852v38.238a3.162,3.162,0,0,0,3.162,3.162h50.6a3.162,3.162,0,0,0,3.162-3.162V876.15Z" transform="translate(-515.25 -824.4)" fill="#185c37"/>
+      <path id="Path_26" data-name="Path 26" d="M561.825,0H535.662A3.162,3.162,0,0,0,532.5,3.162V17.25L561.825,34.5l15.525,5.175L589.425,34.5V17.25Z" transform="translate(-515.25 0)" fill="#21a366"/>
+      <path id="Path_27" data-name="Path 27" d="M532.5,532.5h29.325v17.25H532.5Z" transform="translate(-515.25 -515.25)" fill="#107c41"/>
+      <path id="Path_28" data-name="Path 28" d="M553.488,426H532.5v43.125h20.988a3.172,3.172,0,0,0,3.162-3.162v-36.8A3.172,3.172,0,0,0,553.488,426Z" transform="translate(-515.25 -412.2)" opacity="0.1"/>
+      <path id="Path_29" data-name="Path 29" d="M551.763,479.25H532.5v43.125h19.263a3.172,3.172,0,0,0,3.162-3.162v-36.8a3.172,3.172,0,0,0-3.162-3.162Z" transform="translate(-515.25 -463.725)" opacity="0.2"/>
+      <path id="Path_30" data-name="Path 30" d="M551.763,479.25H532.5v39.675h19.263a3.172,3.172,0,0,0,3.162-3.162V482.412a3.172,3.172,0,0,0-3.162-3.162Z" transform="translate(-515.25 -463.725)" opacity="0.2"/>
+      <path id="Path_31" data-name="Path 31" d="M550.038,479.25H532.5v39.675h17.538a3.172,3.172,0,0,0,3.162-3.162V482.412a3.172,3.172,0,0,0-3.162-3.162Z" transform="translate(-515.25 -463.725)" opacity="0.2"/>
+      <path id="Path_32" data-name="Path 32" d="M3.162,479.25H34.788a3.162,3.162,0,0,1,3.162,3.162v31.626a3.162,3.162,0,0,1-3.162,3.162H3.162A3.162,3.162,0,0,1,0,514.038V482.412A3.162,3.162,0,0,1,3.162,479.25Z" transform="translate(0 -463.725)" fill="url(#linear-gradient)"/>
+      <path id="Path_33" data-name="Path 33" d="M302.3,768.24l6.652-10.307-6.094-10.25h4.9l3.326,6.555c.307.623.518,1.085.631,1.39h.043q.323-.734.69-1.447l3.555-6.495h4.5l-6.25,10.19,6.408,10.364h-4.789l-3.842-7.195a6.028,6.028,0,0,1-.459-.961h-.057a4.547,4.547,0,0,1-.445.932l-3.955,7.224Z" transform="translate(-292.507 -723.462)" fill="#fff"/>
+      <path id="Path_34" data-name="Path 34" d="M1462.188,0H1437.75V17.25h27.6V3.162A3.162,3.162,0,0,0,1462.188,0Z" transform="translate(-1391.175 0)" fill="#33c481"/>
+      <path id="Path_35" data-name="Path 35" d="M1437.75,1065h27.6v17.25h-27.6Z" transform="translate(-1391.175 -1030.5)" fill="#107c41"/>
+    </g>
+    <text id="Microsoft_Excel" data-name="Microsoft Excel" transform="translate(1004 1556)" fill="#fff" font-size="28" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-103.712" y="0">Microsoft Excel</tspan></text>
+  </g>
+</svg>
